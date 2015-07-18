@@ -2,7 +2,7 @@
 
 ## Features
 * Mustache.java support (instead of Spring Boot's JMustache support)
-** Mustache.java has support for template inheritance
+    * Mustache.java has support for template inheritance
 
 ## Links
 * [Mustache Java](https://github.com/spullara/mustache.java)
